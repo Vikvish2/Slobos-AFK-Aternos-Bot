@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 1800,
       "messages": [
-        "Welcome to the Server",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Have fun!",
+        "No hacking, Xraying and killing new players."
       ]
     },
     "chat-log": true,
