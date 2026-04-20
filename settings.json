@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Rules",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "MGamersOfficial.aternos.me",
